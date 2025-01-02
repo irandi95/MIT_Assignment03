@@ -1,0 +1,9 @@
+Base\BaseTest.class
+Pages\HomePage.class
+Pages\ProductPage.class
+TestCases\EbaySearchAddToCart.class
+TestCases\EbaySearchTestBuyItNow.class
+Utils\ExcelHandler.class
+Pages\SearchResultsPage.class
+TestCases\EbaySearchAddtoWatchlist.class
+Utils\TakeErrorScreenShots.class
