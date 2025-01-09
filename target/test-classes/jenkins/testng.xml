@@ -4,6 +4,9 @@
     <test name="Test Set">
         <classes>
             <class name="TestCases.EbaySearchAddToCart" />
+            <class name="TestCases.EbaySearchAddtoWatchlist" />
+            <class name="TestCases.EbaySearchTestBuyItNow" />
+
         </classes>
     </test>
 </suite>
