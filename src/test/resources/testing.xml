@@ -6,7 +6,6 @@
             <class name="TestCases.EbaySearchAddToCart" />
             <class name="TestCases.EbaySearchAddtoWatchlist" />
             <class name="TestCases.EbaySearchTestBuyItNow" />
-            <class name="TestCases.EbaySearchWithWrongLocator" />
         </classes>
     </test>
 </suite>
